@@ -17,9 +17,11 @@ h1{
 }
 
 .form-group{
-    
+    padding: 8%;
     margin-top: 19px;
-    margin-left: -7%;
+    margin-left: -7%; 
+    background-color: lightgoldenrodyellow;
+    border-radius: 4%;
 }
 .form-control{
     margin-bottom:10%;
